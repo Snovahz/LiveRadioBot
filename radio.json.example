@@ -1,7 +1,7 @@
 {
-    "noisefm": {
-        "name" : "Noise FM",
-        "url" : "https://play.sas-media.ru/play"
+    "mcradio": {
+        "name" : "mcradio",
+        "url" : "http://198.105.216.204:8022/"
     },
     "heartfm": {
         "name" : "Heart",
