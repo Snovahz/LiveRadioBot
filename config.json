@@ -2,7 +2,7 @@
     "email" : "*",
     "password" : "*",
 	"tokenID" : "NDAxNTA3MzM4MDEzNjM4NjU2.DTrNcA.wOMozEvdgnZixDyspg8UkmJiVy4",
-	"ownerID" : "*",
+	"ownerID" : "",
 	"BindToChannel" : "",
 	"AutoJoinVoice" : ""
 }
