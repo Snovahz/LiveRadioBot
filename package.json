@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/casperlofgren/stream-bot.git"
+    "url": "git+https://git.heroku.com/mcradio.git"
   },
   "author": "Casper Löfgren",
   "license": "ISC",
