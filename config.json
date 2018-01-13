@@ -1,8 +1,8 @@
 {
-    "email" : "sato20d@gmail.com",
-    "password" : "libra23",
+    "email" : "",
+    "password" : "",
 	"tokenID" : "NDAxNTA3MzM4MDEzNjM4NjU2.DTrNcA.wOMozEvdgnZixDyspg8UkmJiVy4",
-	"ownerID" : "401507338013638656",
+	"ownerID" : "",
 	"BindToChannel" : "",
 	"AutoJoinVoice" : ""
 }
