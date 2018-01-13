@@ -3,6 +3,6 @@
     "password" : "*",
 	"tokenID" : "NDAxNTA3MzM4MDEzNjM4NjU2.DTrNcA.wOMozEvdgnZixDyspg8UkmJiVy4",
 	"ownerID" : "*",
-	"BindToChannel" : "*",
-	"AutoJoinVoice" : "*"
+	"BindToChannel" : "",
+	"AutoJoinVoice" : ""
 }
