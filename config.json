@@ -1,8 +1,8 @@
 {
-    "email" : "",
-    "password" : "",
+    "email" : "*",
+    "password" : "*",
 	"tokenID" : "NDAxNTA3MzM4MDEzNjM4NjU2.DTrNcA.wOMozEvdgnZixDyspg8UkmJiVy4",
-	"ownerID" : "314279182140178433",
-	"BindToChannel" : "",
-	"AutoJoinVoice" : ""
+	"ownerID" : "*",
+	"BindToChannel" : "*",
+	"AutoJoinVoice" : "*"
 }
